@@ -4,7 +4,14 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install appcleaner
+cask install dropbox
 cask install google-chrome
+cask install google-japanese-ime
+cask install mendeley-desktop
+cask install mysqlworkbench
+cask install skype
+cask install teamviewer
 
 ## homebrew/science
 tap homebrew/science
