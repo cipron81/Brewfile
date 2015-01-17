@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install alfred
 cask install appcleaner
 cask install dropbox
 cask install google-chrome
