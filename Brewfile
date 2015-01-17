@@ -13,6 +13,7 @@ cask install mendeley-desktop
 cask install mysqlworkbench
 cask install skype
 cask install teamviewer
+cask install xquartz
 
 ## homebrew/science
 tap homebrew/science
@@ -39,6 +40,7 @@ install libmpc
 install libpng
 install libtiff
 install mpfr
+install mysql
 install openssl
 install pixman
 install readline
