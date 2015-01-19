@@ -10,6 +10,7 @@ cask install dropbox
 cask install google-chrome
 cask install google-japanese-ime
 cask install mendeley-desktop
+cask install microsoft-office
 cask install mysqlworkbench
 cask install skype
 cask install teamviewer
