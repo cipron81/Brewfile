@@ -10,7 +10,6 @@ cask install dropbox
 cask install google-chrome
 cask install google-japanese-ime
 cask install mendeley-desktop
-cask install microsoft-office
 cask install mysqlworkbench
 cask install skype
 cask install teamviewer
@@ -30,6 +29,7 @@ install cloog
 install fontconfig
 install freetype
 install gcc
+install gdbm
 install gettext
 install git
 install glib
@@ -44,7 +44,9 @@ install mpfr
 install mysql
 install openssl
 install pixman
+install python
 install readline
+install sqlite
 install wget
 
 # App Store applications
