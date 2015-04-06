@@ -4,8 +4,10 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install adobe-reader
 cask install alfred
 cask install appcleaner
+cask install atom
 cask install dropbox
 cask install google-chrome
 cask install google-japanese-ime
@@ -45,9 +47,11 @@ install mysql
 install openssl
 install pixman
 install python
+install python3
 install readline
 install sqlite
 install wget
+install xz
 
 # App Store applications
 appstore Evernote
