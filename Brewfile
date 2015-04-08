@@ -9,6 +9,7 @@ cask install alfred
 cask install appcleaner
 cask install atom
 cask install dropbox
+cask install flashlight
 cask install google-chrome
 cask install google-japanese-ime
 cask install mendeley-desktop
@@ -54,6 +55,7 @@ install wget
 install xz
 
 # App Store applications
+appstore Duplicate Cleaner For iPhoto
 appstore Evernote
 appstore iPhoto
 appstore JSON Query
