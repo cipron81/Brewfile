@@ -59,4 +59,5 @@ appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
+appstore Reeder
 appstore The Unarchiver
