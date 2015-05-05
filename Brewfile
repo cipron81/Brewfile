@@ -62,6 +62,7 @@ install xz
 
 # App Store applications
 appstore Evernote
+appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
