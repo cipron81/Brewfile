@@ -16,7 +16,6 @@ cask install iterm2
 cask install mendeley-desktop
 cask install mysqlworkbench
 cask install skype
-cask install sublime-text
 cask install teamviewer
 cask install virtualbox
 cask install xquartz
@@ -63,7 +62,6 @@ install xz
 
 # App Store applications
 appstore Evernote
-appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
