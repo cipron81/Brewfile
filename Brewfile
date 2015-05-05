@@ -18,6 +18,7 @@ cask install mysqlworkbench
 cask install skype
 cask install sublime-text
 cask install teamviewer
+cask install virtualbox
 cask install xquartz
 
 ## homebrew/science
