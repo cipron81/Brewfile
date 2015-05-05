@@ -8,12 +8,15 @@ cask install adobe-reader
 cask install alfred
 cask install appcleaner
 cask install atom
+cask install bettertouchtool
 cask install dropbox
 cask install google-chrome
 cask install google-japanese-ime
+cask install iterm2
 cask install mendeley-desktop
 cask install mysqlworkbench
 cask install skype
+cask install sublime-text
 cask install teamviewer
 cask install xquartz
 
@@ -28,6 +31,7 @@ install brew-file
 # Other Homebrew packages
 install cairo
 install cloog
+install cmake
 install fontconfig
 install freetype
 install gcc
@@ -42,9 +46,12 @@ install libffi
 install libmpc
 install libpng
 install libtiff
+install mecab
+install mecab-ipadic
 install mpfr
 install mysql
 install openssl
+install pcre
 install pixman
 install python
 install python3
