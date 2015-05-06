@@ -8,16 +8,16 @@ cask install adobe-reader
 cask install alfred
 cask install appcleaner
 cask install atom
-cask install bettertouchtool
+# cask install bettertouchtool
 cask install dropbox
 cask install google-chrome
 cask install google-japanese-ime
-cask install iterm2
+# cask install iterm2
 cask install mendeley-desktop
 cask install mysqlworkbench
 cask install skype
 cask install teamviewer
-cask install virtualbox
+# cask install virtualbox
 cask install xquartz
 
 ## homebrew/science
