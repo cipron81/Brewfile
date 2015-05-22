@@ -12,7 +12,6 @@ cask install atom
 cask install dropbox
 cask install google-chrome
 cask install google-japanese-ime
-# cask install iterm2
 cask install mendeley-desktop
 cask install mysqlworkbench
 cask install skype
@@ -53,7 +52,6 @@ install mysql
 install openssl
 install pcre
 install pixman
-install python
 install python3
 install readline
 install sqlite
@@ -62,9 +60,7 @@ install xz
 
 # App Store applications
 appstore Evernote
-appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
-appstore Reeder
 appstore The Unarchiver
