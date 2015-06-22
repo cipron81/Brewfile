@@ -3,64 +3,69 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install adobe-reader
-cask install alfred
-cask install appcleaner
-cask install atom
-# cask install bettertouchtool
-cask install dropbox
-cask install google-chrome
-cask install google-japanese-ime
-cask install mendeley-desktop
-cask install mysqlworkbench
-cask install skype
-cask install teamviewer
-# cask install virtualbox
-cask install xquartz
+brew brew-cask
+cask adobe-reader
+cask alfred
+cask appcleaner
+cask atom
+cask dropbox
+cask google-chrome
+cask google-japanese-ime
+cask mendeley-desktop
+cask mysqlworkbench
+cask rstudio
+cask skype
+cask teamviewer
+cask xquartz
 
 ## homebrew/science
 tap homebrew/science
-install r
+brew r
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 # Other Homebrew packages
-install cairo
-install cloog
-install cmake
-install fontconfig
-install freetype
-install gcc
-install gdbm
-install gettext
-install git
-install glib
-install gmp
-install isl
-install jpeg
-install libffi
-install libmpc
-install libpng
-install libtiff
-install mecab
-install mecab-ipadic
-install mpfr
-install mysql
-install openssl
-install pcre
-install pixman
-install python3
-install readline
-install sqlite
-install wget
-install xz
+brew cabocha
+brew cairo
+brew cloog
+brew cmake
+brew crf++
+brew fontconfig
+brew freetype
+brew gcc
+brew gdbm
+brew gettext
+brew git
+brew glib
+brew gmp
+brew isl
+brew jpeg
+brew libffi
+brew libmpc
+brew libpng
+brew libtiff
+brew mecab
+brew mecab-ipadic
+brew mpfr
+brew mysql
+brew openssl
+brew pcre
+brew pixman
+brew python3
+brew readline
+brew sqlite
+brew wget
+brew xz
 
 # App Store applications
+appstore 1Password
 appstore Evernote
+appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
+appstore Pasteasy
+appstore Reeder
 appstore The Unarchiver
