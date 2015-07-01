@@ -17,6 +17,7 @@ cask rstudio
 cask skype
 cask teamviewer
 cask xquartz
+cask mi
 
 ## homebrew/science
 tap homebrew/science
