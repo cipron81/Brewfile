@@ -13,7 +13,7 @@ cask google-chrome
 cask google-japanese-ime
 cask mendeley-desktop
 cask mysqlworkbench
-cask rstudio
+#cask rstudio
 cask skype
 cask teamviewer
 cask xquartz
@@ -63,10 +63,10 @@ brew xz
 # App Store applications
 appstore 1Password
 appstore Evernote
-appstore iPhoto
+#appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
 appstore Pasteasy
-appstore Reeder
+#appstore Reeder
 appstore The Unarchiver
