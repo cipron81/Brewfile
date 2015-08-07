@@ -10,6 +10,7 @@ cask appcleaner
 cask atom
 cask dropbox
 cask google-chrome
+cask google-drive
 cask google-japanese-ime
 cask mendeley-desktop
 cask mysqlworkbench
