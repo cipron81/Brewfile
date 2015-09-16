@@ -13,7 +13,7 @@ cask google-chrome
 cask google-drive
 cask google-japanese-ime
 cask mendeley-desktop
-cask mysqlworkbench
+#cask mysqlworkbench
 #cask rstudio
 cask skype
 cask teamviewer
@@ -55,7 +55,6 @@ brew mysql
 brew openssl
 brew pcre
 brew pixman
-brew python3
 brew readline
 brew sqlite
 brew wget
@@ -64,10 +63,8 @@ brew xz
 # App Store applications
 appstore 1Password
 appstore Evernote
-#appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
 appstore Pasteasy
-#appstore Reeder
 appstore The Unarchiver
