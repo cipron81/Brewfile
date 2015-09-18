@@ -51,7 +51,7 @@ brew libtiff
 brew mecab
 brew mecab-ipadic
 brew mpfr
-brew mysql
+#brew mysql
 brew openssl
 brew pcre
 brew pixman
@@ -59,6 +59,7 @@ brew readline
 brew sqlite
 brew wget
 brew xz
+brew pyenv
 
 # App Store applications
 appstore 1Password
