@@ -15,7 +15,6 @@ cask google-japanese-ime
 cask julia
 cask mendeley-desktop
 cask mi
-cask mysqlworkbench
 cask skype
 cask teamviewer
 cask xquartz
@@ -53,7 +52,7 @@ brew libtiff
 brew mecab
 brew mecab-ipadic
 brew mpfr
-brew mysql
+#brew mysql
 brew openssl
 brew pcre
 brew pixman
@@ -63,6 +62,7 @@ brew sqlite
 brew wget
 brew xz
 brew zeromq
+brew pyenv
 
 # App Store applications
 appstore 1Password
@@ -70,5 +70,4 @@ appstore Evernote
 appstore Keynote
 appstore Numbers
 appstore Pages
-appstore Pasteasy
 appstore The Unarchiver
