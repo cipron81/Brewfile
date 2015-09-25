@@ -12,13 +12,13 @@ cask dropbox
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
+cask julia
 cask mendeley-desktop
+cask mi
 cask mysqlworkbench
-#cask rstudio
 cask skype
 cask teamviewer
 cask xquartz
-cask mi
 
 ## homebrew/science
 tap homebrew/science
@@ -29,11 +29,13 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew autoconf
 brew cabocha
 brew cairo
 brew cloog
 brew cmake
 brew crf++
+brew czmq
 brew fontconfig
 brew freetype
 brew gcc
@@ -55,19 +57,18 @@ brew mysql
 brew openssl
 brew pcre
 brew pixman
-brew python3
+brew pkg-config
 brew readline
 brew sqlite
 brew wget
 brew xz
+brew zeromq
 
 # App Store applications
 appstore 1Password
 appstore Evernote
-#appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
 appstore Pasteasy
-#appstore Reeder
 appstore The Unarchiver
