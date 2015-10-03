@@ -70,4 +70,3 @@ appstore Evernote
 appstore Keynote
 appstore Numbers
 appstore Pages
-appstore The Unarchiver
