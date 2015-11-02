@@ -10,6 +10,7 @@ cask atom
 cask dropbox
 cask google-drive
 cask google-japanese-ime
+cask java
 cask julia
 cask mendeley-desktop
 cask mi
@@ -27,6 +28,8 @@ brew brew-file
 # Other Homebrew packages
 brew autoconf
 brew cairo
+brew coreutils
+brew czmq
 brew fontconfig
 brew freetype
 brew gcc
@@ -39,6 +42,7 @@ brew jpeg
 brew libffi
 brew libmpc
 brew libpng
+brew libsodium
 brew libtiff
 brew mpfr
 brew openssl
@@ -50,6 +54,7 @@ brew r
 brew readline
 brew wget
 brew xz
+brew zeromq
 
 # App Store applications
 appstore 1Password
