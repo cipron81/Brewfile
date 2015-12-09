@@ -60,6 +60,7 @@ brew zeromq
 appstore 1Password
 appstore Evernote
 appstore Keynote
+appstore Microsoft Remote Desktop
 appstore Numbers
 appstore Pages
 appstore VirusScannerPlus
