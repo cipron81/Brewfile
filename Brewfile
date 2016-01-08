@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask alfred
@@ -12,16 +11,15 @@ cask google-drive
 cask google-japanese-ime
 cask java
 cask julia
+cask kindle
 cask mendeley-desktop
 cask mi
 cask skype
 cask teamviewer
 cask xquartz
 
-## homebrew/science
 tap homebrew/science
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
