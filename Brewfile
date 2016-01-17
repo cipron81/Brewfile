@@ -15,6 +15,7 @@ cask kindle
 cask mendeley-desktop
 cask mi
 cask skype
+cask slack
 cask teamviewer
 cask xquartz
 
