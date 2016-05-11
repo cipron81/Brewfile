@@ -19,10 +19,7 @@ cask slack
 cask teamviewer
 cask xquartz
 
-tap homebrew/science
-
-tap rcmdnk/file
-brew brew-file
+brew rcmdnk/file/brew-file
 
 # Other Homebrew packages
 brew autoconf
@@ -49,7 +46,7 @@ brew pcre
 brew pixman
 brew pkg-config
 brew pyenv
-brew r
+brew homebrew/science/r
 brew readline
 brew wget
 brew xz
