@@ -10,14 +10,20 @@ cask google-drive
 cask google-japanese-ime
 cask java
 
-# Other Homebrew packages
+tap homebrew/core
 brew git
+brew mas
+
+tap rcmdnk/file
+brew brew-file
+
+tap argon/mas
 
 # App Store applications
-appstore 1Password
-appstore Evernote
-appstore Keynote
-appstore Microsoft Remote Desktop
-appstore Numbers
-appstore Pages
-appstore VirusScannerPlus
+appstore 443987910 1Password
+appstore 406056744 Evernote
+appstore 409183694 Keynote
+appstore 715768417 Microsoft Remote Desktop
+appstore 409203825 Numbers
+appstore 409201541 Pages
+appstore 595374522 VirusScannerPlus
