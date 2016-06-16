@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-brew brew-cask
 cask alfred
 cask appcleaner
 cask atom
