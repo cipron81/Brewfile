@@ -2,6 +2,14 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask alfred
+cask appcleaner
+cask atom
+cask dropbox
+cask google-drive
+cask google-japanese-ime
+cask java
+
 
 # Other Homebrew packages
 brew git
