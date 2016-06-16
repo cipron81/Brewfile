@@ -27,10 +27,14 @@ brew gcc
 brew gettext
 brew git
 brew glib
+brew gmp
+brew isl
 brew jpeg
 brew libffi
+brew libmpc
 brew libpng
 brew libtiff
+brew mpfr
 brew openssl
 brew pcre
 brew pixman
