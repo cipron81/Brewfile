@@ -10,10 +10,8 @@ cask google-drive
 cask google-japanese-ime
 cask java
 
-
 # Other Homebrew packages
 brew git
-
 
 # App Store applications
 appstore 1Password
