@@ -42,6 +42,7 @@ brew pkg-config
 brew pyenv
 brew readline
 brew xz
+brew zeromq
 
 tap homebrew/science
 brew r
@@ -56,4 +57,5 @@ appstore 409183694 Keynote
 appstore 715768417 Microsoft Remote Desktop
 appstore 409203825 Numbers
 appstore 409201541 Pages
+appstore 405580712 StuffIt Expander
 appstore 595374522 VirusScannerPlus
