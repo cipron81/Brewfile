@@ -8,6 +8,7 @@ tap caskroom/cask
 cask alfred
 cask appcleaner
 cask atom
+cask cheatsheet
 cask dropbox
 cask google-drive
 cask google-japanese-ime
