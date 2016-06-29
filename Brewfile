@@ -15,6 +15,7 @@ cask google-japanese-ime
 cask java
 cask kindle
 cask mi
+cask rstudio
 cask skype
 cask teamviewer
 
