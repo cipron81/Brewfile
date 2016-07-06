@@ -38,6 +38,7 @@ brew libpng
 brew libtiff
 brew mpfr
 brew openssl
+brew pandoc
 brew pcre
 brew pixman
 brew pkg-config
