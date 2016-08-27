@@ -50,7 +50,7 @@ brew xz
 brew zeromq
 
 tap homebrew/science
-brew r --build-from-source
+brew r
 
 tap homebrew/versions
 brew isl014
