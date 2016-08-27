@@ -52,6 +52,8 @@ brew zeromq
 tap homebrew/science
 brew r
 
+tap homebrew/versions
+
 tap rcmdnk/file
 brew brew-file
 
