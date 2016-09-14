@@ -15,6 +15,7 @@ cask google-japanese-ime
 cask google-photos-backup
 cask java
 cask kindle
+cask league-of-legends
 cask mi
 cask rstudio
 cask skype
