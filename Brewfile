@@ -17,6 +17,7 @@ cask java
 cask kindle
 cask league-of-legends
 cask mi
+cask microsoft-office
 cask rstudio
 cask skype
 cask teamviewer
@@ -55,3 +56,14 @@ brew r
 
 tap rcmdnk/file
 brew brew-file
+
+# App Store applications
+appstore 443987910 1Password
+appstore 963642514 Duplicate Photos Fixer Pro
+appstore 406056744 Evernote
+appstore 409183694 Keynote
+appstore 715768417 Microsoft Remote Desktop
+appstore 409203825 Numbers
+appstore 409201541 Pages
+appstore 405580712 StuffIt Expander
+appstore 595374522 VirusScannerPlus
