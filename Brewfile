@@ -5,6 +5,7 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask alfred
 cask appcleaner
 cask atom
 cask cheatsheet
