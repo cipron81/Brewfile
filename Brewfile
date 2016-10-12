@@ -47,7 +47,9 @@ brew pcre
 brew pixman
 brew pkg-config
 brew pyenv
+brew rbenv
 brew readline
+brew ruby-build
 brew texinfo
 brew xz
 brew zeromq
