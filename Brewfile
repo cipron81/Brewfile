@@ -27,6 +27,7 @@ tap homebrew/core
 brew autoconf
 brew cairo
 brew coreutils
+brew czmq
 brew fontconfig
 brew freetype
 brew gcc
@@ -39,6 +40,7 @@ brew jpeg
 brew libffi
 brew libmpc
 brew libpng
+brew libsodium
 brew libtiff
 brew mpfr
 brew openssl
@@ -69,4 +71,5 @@ appstore 715768417 Microsoft Remote Desktop
 appstore 409203825 Numbers
 appstore 409201541 Pages
 appstore 405580712 StuffIt Expander
+appstore 736008948 EpocCam Viewer
 appstore 595374522 VirusScannerPlus
