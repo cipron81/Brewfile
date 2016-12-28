@@ -20,6 +20,7 @@ cask kindle
 cask league-of-legends
 cask mi
 cask microsoft-office
+cask phoneclean
 cask rstudio
 cask skype
 cask teamviewer
@@ -54,6 +55,7 @@ brew rbenv
 brew readline
 brew ruby-build
 brew texinfo
+brew wget
 brew xz
 brew zeromq
 
