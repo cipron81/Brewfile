@@ -20,6 +20,7 @@ cask kindle
 cask league-of-legends
 cask mi
 cask microsoft-office
+cask onyx
 cask phoneclean
 cask rstudio
 cask skype
