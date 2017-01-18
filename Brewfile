@@ -6,7 +6,6 @@ brew mas
 
 tap caskroom/cask
 cask alfred
-cask amazon-music
 cask appcleaner
 cask atom
 cask cheatsheet
