@@ -19,6 +19,7 @@ cask kindle
 cask league-of-legends
 cask mi
 cask microsoft-office
+cask nosleep
 cask onyx
 cask phoneclean
 cask rstudio
