@@ -12,7 +12,6 @@ cask cheatsheet
 cask dropbox
 cask google-chrome
 cask google-japanese-ime
-cask google-photos-backup
 cask java
 cask kindle
 cask mi
