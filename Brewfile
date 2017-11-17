@@ -11,7 +11,6 @@ cask atom
 cask cheatsheet
 cask dropbox
 cask google-chrome
-cask google-drive
 cask google-japanese-ime
 cask google-photos-backup
 cask java
