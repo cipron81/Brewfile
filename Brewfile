@@ -62,7 +62,6 @@ brew brew-file
 
 # App Store applications
 appstore 443987910 1Password
-appstore 963642514 Duplicate Photos Fixer Pro
 appstore 406056744 Evernote
 appstore 409183694 Keynote
 appstore 715768417 Microsoft Remote Desktop
