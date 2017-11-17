@@ -16,10 +16,7 @@ cask java
 cask kindle
 cask mi
 cask microsoft-office
-cask nosleep
 cask onyx
-cask phoneclean
-cask rstudio
 cask skype
 cask teamviewer
 
