@@ -59,6 +59,7 @@ cask onyx
 cask phoneclean
 cask rstudio
 cask skype
+cask slack
 cask teamviewer
 
 tap argon/mas
