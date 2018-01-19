@@ -79,3 +79,5 @@ appstore 409203825 Numbers (4.3.1)
 appstore 409201541 Pages (6.3.1)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 595374522 VirusScannerPlus (3.10)
+appstore 600925318 Parallels Client (16.2.0)
+
