@@ -46,6 +46,7 @@ cask amazon-music
 cask appcleaner
 cask atom
 cask cheatsheet
+cask discord
 cask dropbox
 cask google-chrome
 cask google-japanese-ime
