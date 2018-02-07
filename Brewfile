@@ -62,6 +62,7 @@ cask rstudio
 cask skype
 cask slack
 cask teamviewer
+cask virtualbox-extension-pack
 cask virtualbox
 
 tap argon/mas
