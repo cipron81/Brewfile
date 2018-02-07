@@ -53,7 +53,6 @@ cask google-japanese-ime
 cask java
 cask kindle
 cask league-of-legends
-cask mi
 cask microsoft-office
 cask nosleep
 cask onyx
