@@ -48,6 +48,7 @@ cask atom
 cask cheatsheet
 cask discord
 cask dropbox
+cask filezilla
 cask google-chrome
 cask google-japanese-ime
 cask java
