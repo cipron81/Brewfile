@@ -61,6 +61,7 @@ cask phoneclean
 cask rstudio
 cask skype
 cask slack
+cask soundflower
 cask teamviewer
 cask virtualbox-extension-pack
 cask virtualbox
