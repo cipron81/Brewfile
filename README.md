@@ -6,7 +6,7 @@ http://joker.hatenablog.com/entry/2015/01/28/123159
 
 CaskでインストールしたのをUpdateしたいときは
 ```
-brew file cask_upgrade -C
+brew cask upgrade
 ```
 http://rcmdnk.github.io/blog/2014/09/01/computer-mac-homebrew/
 
