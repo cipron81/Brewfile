@@ -40,22 +40,18 @@ brew zeromq
 
 tap homebrew/science
 
-tap caskroom/cask
 cask alfred
 cask amazon-music
 cask appcleaner
 cask atom
-cask cheatsheet
 cask discord
 cask dropbox
-cask filezilla
 cask google-chrome
 cask google-japanese-ime
 cask java
 cask kindle
 cask league-of-legends
 cask microsoft-office
-cask nosleep
 cask onyx
 cask phoneclean
 cask rstudio
