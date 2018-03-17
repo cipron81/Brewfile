@@ -63,8 +63,8 @@ cask skype
 cask slack
 cask soundflower
 cask teamviewer
-cask virtualbox-extension-pack
 cask virtualbox
+cask virtualbox-extension-pack
 
 tap argon/mas
 
