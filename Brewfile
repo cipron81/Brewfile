@@ -73,7 +73,6 @@ brew brew-file
 
 # App Store applications
 appstore 443987910 1Password (6.8.4)
-appstore 963642514 Duplicate Photos Fixer Pro (2.2)
 appstore 736008948 EpocCam Viewer (1.1)
 appstore 406056744 Evernote (6.13.1)
 appstore 409183694 Keynote (7.3.1)
