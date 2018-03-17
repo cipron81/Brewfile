@@ -40,22 +40,18 @@ brew zeromq
 
 tap homebrew/science
 
-tap caskroom/cask
 cask alfred
 cask amazon-music
 cask appcleaner
 cask atom
-cask cheatsheet
 cask discord
 cask dropbox
-cask filezilla
 cask google-chrome
 cask google-japanese-ime
 cask java
 cask kindle
 cask league-of-legends
 cask microsoft-office
-cask nosleep
 cask onyx
 cask phoneclean
 cask rstudio
@@ -73,7 +69,6 @@ brew brew-file
 
 # App Store applications
 appstore 443987910 1Password (6.8.4)
-appstore 963642514 Duplicate Photos Fixer Pro (2.2)
 appstore 736008948 EpocCam Viewer (1.1)
 appstore 406056744 Evernote (6.13.1)
 appstore 409183694 Keynote (7.3.1)
