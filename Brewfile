@@ -47,25 +47,6 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask amazon-music
 cask atom
-cask discord
-cask google-chrome
-cask java
-cask league-of-legends
-cask nosleep
-cask phoneclean
-cask skype
-cask soundflower
-cask virtualbox
-
-tap argon/mas
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Cask applications
-cask alfred
-cask appcleaner
-cask cheatsheet
 cask dropbox
 cask google-japanese-ime
 cask kindle
@@ -75,6 +56,24 @@ cask rstudio
 cask slack
 cask teamviewer
 cask virtualbox-extension-pack
+
+tap argon/mas
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Cask applications
+cask alfred
+cask appcleaner
+cask discord
+cask google-chrome
+cask java
+cask league-of-legends
+cask nosleep
+cask phoneclean
+cask skype
+cask soundflower
+cask virtualbox
 
 # App Store applications
 appstore 443987910 1Password (6.8.8)
