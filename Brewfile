@@ -4,7 +4,6 @@
 tap homebrew/core
 brew autoconf
 brew cairo
-brew coreutils
 brew czmq
 brew fontconfig
 brew freetype
@@ -69,10 +68,7 @@ cask discord
 cask google-chrome
 cask java
 cask league-of-legends
-cask nosleep
-cask phoneclean
 cask skype
-cask soundflower
 cask virtualbox
 
 # App Store applications
@@ -81,10 +77,7 @@ appstore 736008948 EpocCam Viewer (1.1)
 appstore 406056744 Evernote (7.5.2)
 appstore 409183694 Keynote (8.2)
 appstore 539883307 LINE (5.10.1)
-appstore 441258766 Magnet (2.4)
 appstore 409203825 Numbers (5.2)
 appstore 409201541 Pages (7.2)
-appstore 600925318 Parallels Client (16.5.20266)
-appstore 403195710 Remote Mouse (2.903)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 595374522 VirusScannerPlus (3.12)
